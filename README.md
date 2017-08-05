@@ -31,19 +31,19 @@ You will be using Python for programming.
 
 ## Tentative Class Contents
 * Introduction
-* Linear algebra review
+* Review: Linear algebra 
+* Perceptron
 * Linear regression
+* Review: Probability 
 * Logistic regression
-* Probability review
-* Basic probability and naïve Bayes classifier
+* Naïve Bayes classifier
 * Generative versus discriminative models
 * Generalization and overfitting
-* Support vector machines and kernel methods
-* Neural networks
-* Deep learning
 * Decision tree and random forests
-* Dimension reduction, principal component analysis (PCA) 
+* Support vector machines and kernel methods
 * Unsupervised learning and K-means clustering
+* Dimension reduction, principal component analysis (PCA) 
+* Neural networks and Deep learning
 
 ## Course Policies
 
