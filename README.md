@@ -13,7 +13,7 @@ Instructor: [Jiayu Zhou](http://0xmachine.com) [[email](mailto:jiayuz@msu.edu)]
 
 Teaching Assistant: [Mengying Sun](mailto:sunmeng2@msu.edu)
 
-* Office Hours: TBA and by appointments.  
+* Office Hours: Thursday 2:30pm - 3:30pm and by appointments.  
 
 * Location: EB 3203 
 
