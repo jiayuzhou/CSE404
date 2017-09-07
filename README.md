@@ -82,6 +82,12 @@ Students will be required to complete two in-class exams and one final exam. In-
 ### Class Participation
 Students are required to attend all classes and actively participate in discussions.
 
+### Honors Options
+
+Students seeking H-Option would need to propose and complete a project (see https://github.com/msu-ml for class project examples in CSE847). The student submits their intent to pursue the H-Option (using a form in Student-Instructor Forms) near the beginning of the semester with a description of what is to be done. The form will be approved or rejected after careful review. Students need to provide a short (1-2 paragraphs) description of the H-Option project that they would like to complete. It must be something that is directly related to the course. Other than that, there is a lot of flexibility. Once approved, a Github repository will be set up for the project, and then students can develop code and Latex report in the repository. 
+
+Once the project is complete, students need to submit a short report (2-4 pages ACM Latex template) and the completed project no later than the last week of classes. Students will then be assessed whether the requirements were met. Note that it is a department requirement for H-Option credit that students receive at least a 3.5 in the course.
+
 ## Other Policies
 ### Spartan Code of Honor
 Student leaders have recognized the challenging task of discouraging plagiarism from the academic community. The Associated Students of Michigan State University (ASMSU) is proud to be launching the Spartan Code of Honor academic pledge, focused on valuing academic integrity and honest work ethics at Michigan State University. The pledge reads as follows:
