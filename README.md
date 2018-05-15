@@ -1,5 +1,7 @@
 # Introduction to Machine Learning
-## CSE491 Section 2, 2017 Fall
+## CSE491 
+
+Latest Offering: 2018 Fall
 
 Instructor: [Jiayu Zhou](http://0xmachine.com) [[email](mailto:jiayuz@msu.edu)]
 
@@ -7,7 +9,7 @@ Instructor: [Jiayu Zhou](http://0xmachine.com) [[email](mailto:jiayuz@msu.edu)]
 
 * Location: Engineering Building, **EB 1230**  
 
-* Office Hours: Monday and Wednesday 11:40am - 12:30pm, EB 2134
+* Office Hours: Monday and Wednesday, after class in EB 1230 until no one is in the classroom or 12:30p
 
 * Textbook: Learning from Data, Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin, 2012. [Webpage](http://amlbook.com/)
 
