@@ -5,6 +5,8 @@ Latest Offering: 2018 Fall
 
 Instructor: [Jiayu Zhou](http://0xmachine.com) [[email](mailto:jiayuz@msu.edu)]
 
+Co-Instructor: [Inci Baytas](https://sites.google.com/site/baytasinci/home) [[email](mailto:baytasin@msu.edu)]
+
 * Time: Monday and Wednesday 10:20am - 11:40am
 
 * Location: Engineering Building, **EB 1230**  
