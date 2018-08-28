@@ -14,9 +14,9 @@ and [Inci M. Baytas](https://sites.google.com/site/baytasinci/home) [[email](mai
 
 * Textbook: Learning from Data, Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin, 2012. [Webpage](http://amlbook.com/)
 
-Teaching Assistant: [Mengying Sun](mailto:sunmeng2@msu.edu)
+Teaching Assistant: [Kaixiang Lin](mailto:linkaixi@msu.edu)
 
-* Office Hours: Thursday 2:30pm - 3:30pm and by appointments.  
+* Office Hours: Thursday 11:00am - 12:00pm and by appointments.  
 
 * Location: EB 3203 
 
@@ -77,7 +77,7 @@ where [ ] denotes inclusion and ( ) denotes exclusion. The instructor reserves t
 ### Homework
 All homework must be done independently, or you will be penalized for plagiarism. The instructor and the TA will be carefully looking into your code.
 
-Most homework contains a written component and a programming component. Therefore, most homework submission should include a report and some `Python` code. The report should be submitted in hard-copy BEFORE class on the due date. The code file should be submitted electronically on [MSU D2L](https://d2l.msu.edu) (one submission per student). Code submissions may have a later due date than the written part. Late penalty is 15% point deduction per day for the first three days, after which the submission will not be accepted. Exceptions/extensions can be given to students with documented and valid excuse. Students need to provide evidence for their excuse and must notify the instructor **at least two days** before the original due date. A student may request up to **2 excused extensions**.
+Most homework contains a written component and a programming component. Therefore, most homework submission should include a report and some `Python` code. The report and code files should be submitted in [MSU D2L](https://d2l.msu.edu) hard-copy BEFORE class on the due date (one submission per student). Code submissions may have a later due date than the written part. Late penalty is 15% point deduction per day for the first three days, after which the submission will not be accepted.  Exceptions/extensions can be given to students with documented and valid excuse. Students need to provide evidence for their excuse and must notify the instructor **at least two days** before the original due date. A student may request up to **2 excused extensions**. The aforementioned late penalty also applies to extensions.
 
 ### Exams
 Students will be required to complete two in-class exams and one final exam. In-class exams will focus on topics taught since the last exam. The final exam will be comprehensive.
@@ -115,18 +115,10 @@ Web site to complete any course work in this course. Students who violate MSU ac
 receive a penalty grade, including a failing grade on the assignment or in the course. Contact your instructor if you
 are unsure about the appropriateness of your course work. (See also the Academic Integrity webpage.)
 
-### Limits to confidentiality
-Essays, journals, and other materials submitted for this class are generally considered confidential pursuant to
-the Universitys student record policies. However, students should be aware that University employees, including
-instructors, may not be able to maintain confidentiality when it conflicts with their responsibility to report certain
-issues to protect the health and safety of MSU community members and others. As the instructor, I must report
-the following information to the Department of Police and Public Safety if you share it with me: Suspected child
-abuse/neglect, even if this maltreatment happened when you were a child, Allegations of sexual assault or sexual
-harassment when they involve MSU students, faculty, or staff, and Credible threats of harm to oneself or to others.
-These reports will trigger contact from the Department of Police and Public Safety who will want to talk with you
-about the incident that you have shared. In almost all cases, it will be your decision whether you wish to speak
-with that individual. If you would like to talk about these events in a more confidential setting you are encouraged
-to make an appointment with the MSU Counseling Center.
+### Use of Turnitin
+Consistent with MSU's efforts to enhance student learning, foster honesty, and maintain integrity in our academic processes, I have chosen to use a tool called Turnitin to compare your papers with multiple sources.  The tool will compare each paper you submit to an extensive database of prior publications and papers, providing links to possible matches and a 'similarity score.'  The tool does not determine whether plagiarism has occurred or not.  Instead, I will make a complete assessment and judge the originality of your work.  All submissions to this course may be checked using this tool.
+
+You should submit papers to Turnitin Dropboxes **without identifying information included in the paper** (e.g., name or student number), the Desire 2 Learn system will automatically show this information to me when I view the submission, but the information will not be retained by Turnitin.  If you forget and submit your paper with your identifying information on it, it will be retained in the Turnitin repository. Your submissions will be retained only in the MSU repository hosted by Turnitin.
 
 ### Accommodations for Students with Disabilities (from RCPD)
 Michigan State University is committed to providing equal opportunity for participation in all programs, services
@@ -155,6 +147,9 @@ Essays, journals, and other materials submitted for this class are generally con
 --Credible threats of harm to oneself or to others.
  
 These reports may trigger contact from a campus official who will want to talk with you about the incident that you have shared.  In almost all cases, it will be your decision whether you wish to speak with that individual.  If you would like to talk about these events in a more confidential setting you are encouraged to make an appointment with the MSU Counseling Center.
+
+### Drops and Adds
+The last day to add this course is **Sept 4, 2018**. The last day to drop this course with a 100 percent refund and no grade reported is **Sept 24, 2018**. The last day to drop this course with no refund and no grade reported is **8:00 pm Oct 17, 2018**. You should immediately make a copy of your amended schedule to verify you have added or dropped this course.
 
 ## Acknowledgment
 The preparation of this course has benefited from CPTS 483 at Washington State University (Instructor: Dr. Shuiwang Ji), CSE 591 (Dr. Jieping Ye now in UMich) and CSE 575 (Dr. Hanghang Tong) at Arizona State University. 
