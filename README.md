@@ -37,7 +37,7 @@ You will be using Python for programming.
 * Linear regression
 * Review: Probability 
 * Logistic regression
-* Naïve Bayes classifier
+* Naïve Bayes classifier
 * Generative versus discriminative models
 * Generalization and overfitting
 * Decision tree and random forests
@@ -106,10 +106,25 @@ unit offering course) adheres to the policies on academic honesty as specified i
 1.0, Protection of Scholarship and Grades; the all University Policy on Integrity of Scholarship and Grades; and
 Ordinance 17.00, Examinations. (See Spartan Life: Student Handbook and Resource Guide and/or the MSU Web
 site: www.msu.edu.) Therefore, unless authorized by your instructor, you are expected to complete all course
-assignments, including homework, lab work, quizzes, tests and exams, without assistance from any source. You are
+assignments, including homework, lab work, quizzes, tests and exams, **without assistance from any source**. You are
 expected to develop original work for this course; therefore, you may not submit course work you completed for
 another course to satisfy the requirements for this course. Also, you are not authorized to use the www.allmsu.com
-Web site to complete any course work in this course. Students who violate MSU academic integrity rules may
+Web site to complete any course work in this course. 
+
+Additionally, examples of academic dishonesty include (but are not limited to):
+* Copying another student's code or exam answers
+* Using code implemented by someone else intended to solve this class's assignments (i.e., don't get someone else to do your assignment for you!).
+* Using code independently implemented by someone else without attributing credit (i.e., you can use tools, libraries, or code snippets from the web, but only with proper citation.)
+* Writing code that deceptively passes the test cases, but doesn't solve the problem given. In other words, abusing automatic grader mechanisms to gain unearned points
+* Using websites and sources, whose purpose is to provide assignment solutions (e.g. using sites such as Chegg.com for any purpose regarding this class).
+* Distributing course content without instructor permission.
+* Submitting a solution that you don't understand / can't explain to an instructor.
+* Providing false information to the instructor about matters related to the course.
+* Facilitating another student in any of these activities.
+
+If using online revision control systems such as github.com, ensure your code is not publicly accessible. Failing to do so may allow someone to easily copy your code putting yourself at risk.
+
+Students who violate MSU academic integrity rules may
 receive a penalty grade, including a failing grade on the assignment or in the course. Contact your instructor if you
 are unsure about the appropriateness of your course work. (See also the Academic Integrity webpage.)
 
