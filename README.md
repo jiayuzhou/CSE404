@@ -1,8 +1,7 @@
 # Introduction to Machine Learning
-## CSE491 2018 Fall
+## CSE404 2019 Fall
 
 Instructor: [Jiayu Zhou](http://0xmachine.com) [[email](mailto:jiayuz@msu.edu)] 
-and [Inci M. Baytas](https://sites.google.com/site/baytasinci/home) [[email](mailto:baytasin@msu.edu)]
 
 * Time: Monday and Wednesday 10:20am - 11:40am
 
@@ -12,12 +11,13 @@ and [Inci M. Baytas](https://sites.google.com/site/baytasinci/home) [[email](mai
 
 * Textbook: Learning from Data, Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin, 2012. [Webpage](http://amlbook.com/)
 
-Teaching Assistant: [Kaixiang Lin](mailto:linkaixi@msu.edu)
+Teaching Assistant: [Rahul Dey](mailto:deyrahul@msu.edu)
 
-* Office Hours: Thursday 11:00am - 12:00pm and by appointments.  
+* Office Hours: Tuesdays 2:00pm - 4:00pm and by appointments.  
 
 * Location: EB 3203 
 
+Discussions in [Piazza](http://piazza.com/msu/fall2019/cse404?token=jw9CLTFlbda)
 
 ## Course Description
 An introduction to the field of machine learning, including linear models for regression and classification, generative models, support vector machines and kernel methods, neural networks and deep learning, decision trees, unsupervised learning and dimension reduction. (3 credits) 
