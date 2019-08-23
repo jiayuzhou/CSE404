@@ -26,7 +26,7 @@ An introduction to the field of machine learning, including linear models for re
 Student learning outcomes include (1) understanding the foundation, major techniques, applications, and challenges of machine learning; (2) the ability to apply basic machine learning algorithms for solving real-world problems. The learning outcomes will be assessed based on a combination of homework assignments and exams.
 
 ## Recommended Background
-In this course you will be extensively involved a variety of math topics, especially, linear algebra and matrix computation, basics about probability theory and numerical optimization. An online quiz will be available before the class for [self-assessment](https://github.com/jiayuzhou/CSE491-2016Fall/blob/master/assessment/SelfAssessment.pdf). 
+In this course you will be extensively involved a variety of math topics, especially, linear algebra and matrix computation, basics about probability theory and numerical optimization. An online quiz will be available before the class for [self-assessment](https://github.com/jiayuzhou/CSE404/blob/master/CSE404-SelfAssessment.pdf). 
 
 You will be using Python for programming.  
 
