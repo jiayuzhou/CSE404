@@ -15,7 +15,7 @@ Teaching Assistant: [Rahul Dey](mailto:deyrahul@msu.edu)
 
 * Office Hours: Tuesdays 2:00pm - 4:00pm and by appointments.  
 
-* Location: EB 3203 
+* Location: TBD
 
 Discussions in [Piazza](http://piazza.com/msu/fall2019/cse404?token=jw9CLTFlbda)
 
