@@ -17,7 +17,7 @@ Teaching Assistant: [Rahul Dey](mailto:deyrahul@msu.edu)
 
 * Location: TBD
 
-Discussions in [Piazza](http://piazza.com/msu/fall2019/cse404?token=jw9CLTFlbda)
+Discussions in [Piazza](http://piazza.com/msu/fall2019/cse404)
 
 ## Course Description
 An introduction to the field of machine learning, including linear models for regression and classification, generative models, support vector machines and kernel methods, neural networks and deep learning, decision trees, unsupervised learning and dimension reduction. (3 credits) 
