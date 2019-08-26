@@ -24,7 +24,7 @@ e.g., `~/Downloads`, and install miniconda with Python3.
 # download
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
 # install
-./Miniconda3-latest-MacOSX-x86_64.sh 
+bash Miniconda3-latest-MacOSX-x86_64.sh 
 ```
 follow the prompt to complete the installation into a local directory, e.g., 
 `$HOME/miniconda3`.
