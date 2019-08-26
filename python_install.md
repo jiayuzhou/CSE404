@@ -1,5 +1,7 @@
 # Setup Python Environment
 
+## Intro to Environment
+
 Many systems come with native Python distributions, such as Mac and Linux. 
 You can use them for sure but a few things to note: 
 
@@ -11,12 +13,13 @@ for one program, and use a different setting (Numpy 1.0.2 and Scipy 0.12.0) for 
 Switching between versions can sometimes be very annoying. 
 
 Therefore we would like to use a package manager to manage our environment. 
-I would recommend using [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
-if you do not have one in hand. 
+I would recommend using [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+if you do not have one in hand. Below is a step-by-step instruction for installing 
+miniconda, using it to create and configurate an environment (on Mac).
 
 ## Configure environment (Mac)
-1) Download the install script to a local folder, e.g., `~/Downloads`, and 
-install.
+1) Open a terminal. Download the install script to a local folder, 
+e.g., `~/Downloads`, and install miniconda with Python3.
 ```bash
 # download
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
@@ -38,9 +41,9 @@ conda install jupyter=1.0.0
 ```bash
 jupyter notebook
 ```
-You should be able to a browser poping up. Otherwise try [this link](http://localhost:8888/). 
-When you are done, you can save, close all Jupyter windows, 
-and use `ctrl+c` in the console to terminate the console. 
+You should be able to see a browser poping up. Otherwise try [this link](http://localhost:8888/). 
+When you are done, you can save changes, close all Jupyter windows, 
+and use `ctrl+c` in the console to terminate the Jupyter session. 
 4) When you are done, you can exit the environment by:
 ```bash
 conda deactivate  # exit the cse404 environment (and return to base)
