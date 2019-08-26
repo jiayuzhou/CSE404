@@ -12,7 +12,7 @@ want a different version. In this case, installing one library may crash the oth
 for one program, and use a different setting (Numpy 1.0.2 and Scipy 0.12.0) for another. 
 Switching between versions can sometimes be very annoying. 
 
-Therefore we would like to use a package manager to manage our environment. 
+Therefore we would like to use an environment manager to manage Python libraries. 
 I would recommend using [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 if you do not have one in hand. Below is a step-by-step instruction for installing 
 miniconda, using it to create and configurate an environment (on Mac).
