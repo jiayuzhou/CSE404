@@ -162,7 +162,7 @@ Essays, journals, and other materials submitted for this class are generally con
 These reports may trigger contact from a campus official who will want to talk with you about the incident that you have shared.  In almost all cases, it will be your decision whether you wish to speak with that individual.  If you would like to talk about these events in a more confidential setting you are encouraged to make an appointment with the MSU Counseling Center.
 
 ### Drops and Adds
-The last day to add this course is **Sept 4, 2018**. The last day to drop this course with a 100 percent refund and no grade reported is **Sept 24, 2018**. The last day to drop this course with no refund and no grade reported is **8:00 pm Oct 17, 2018**. You should immediately make a copy of your amended schedule to verify you have added or dropped this course.
+The last day to add this course is **Sept 4, 2019 (8:00pm)**. The last day to drop this course with a 100 percent refund and no grade reported is **Sept 23, 2019 (8:00pm)**. The last day to drop this course with no refund and no grade reported is **Oct 16, 2019 (8:00 pm)**. You should immediately make a copy of your amended schedule to verify you have added or dropped this course.
 
 ## Acknowledgment
 The preparation of this course has benefited from CPTS 483 at Washington State University (Instructor: Dr. Shuiwang Ji), CSE 591 (Dr. Jieping Ye now in UMich) and CSE 575 (Dr. Hanghang Tong) at Arizona State University. 
