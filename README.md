@@ -13,7 +13,7 @@ Instructor: [Jiayu Zhou](http://0xmachine.com) [[email](mailto:jiayuz@msu.edu)]
 
 Teaching Assistant: [Rahul Dey](mailto:deyrahul@msu.edu)
 
-* Office Hours: Tuesdays 2:00pm - 4:00pm and by appointments.  
+* Office Hours: Monday 2:00pm - 4:00pm and by appointments.  
 
 * Location: TBD
 
