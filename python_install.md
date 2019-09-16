@@ -36,6 +36,7 @@ conda activate cse404
 conda install scipy=1.3.1
 conda install numpy=1.16.4
 conda install jupyter=1.0.0
+conda install matplotlib=3.1.1
 ```
 3) Now you can go to one folder and start Jupyter notebook
 ```bash
