@@ -13,9 +13,9 @@ Instructor: [Jiayu Zhou](http://0xmachine.com) [[email](mailto:jiayuz@msu.edu)]
 
 Teaching Assistant: [Rahul Dey](mailto:deyrahul@msu.edu)
 
-* Office Hours: Monday 2:00pm - 4:00pm and by appointments.  
+* Office Hours: Monday 3:00pm - 5:00pm and by appointments.  
 
-* Location: TBD
+* Location: Bone Lab EB3203
 
 Discussions in [Piazza](http://piazza.com/msu/fall2019/cse404)
 
