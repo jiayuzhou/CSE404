@@ -37,6 +37,7 @@ conda install scipy=1.3.1
 conda install numpy=1.16.4
 conda install jupyter=1.0.0
 conda install matplotlib=3.1.1
+conda install -c anaconda scikit-learn=0.21.3
 ```
 3) Now you can go to one folder and start Jupyter notebook
 ```bash
