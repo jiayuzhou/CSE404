@@ -78,7 +78,7 @@ All homework must be done independently, or you will be penalized for plagiarism
 Most homework contains a written component and a programming component. Therefore, most homework submission should include a report and some `Python` code. The report and code files should be submitted in [MSU D2L](https://d2l.msu.edu) hard-copy BEFORE class on the due date (one submission per student). Code submissions may have a later due date than the written part. Late penalty is 15% point deduction per day for the first three days, after which the submission will not be accepted.  Exceptions/extensions can be given to students with documented and valid excuse. Students need to provide evidence for their excuse and must notify the instructor **at least two days** before the original due date. A student may request up to **2 excused extensions**. The aforementioned late penalty also applies to extensions.
 
 ### Exams
-Students will be required to complete two in-class exams and one final exam. In-class exams will focus on topics taught since the last exam. The final exam will be comprehensive.
+Students will be required to complete two mid-term exams and one final exam. Mid-term exams will focus on topics taught since the last exam. The final exam will be comprehensive.
 
 ### Class Participation
 Students are expected to attend all classes and actively participate in discussions. 
