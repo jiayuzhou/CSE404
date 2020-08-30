@@ -1,23 +1,23 @@
 # Introduction to Machine Learning
-## CSE404 2019 Fall
+## CSE404 2020 Fall
 
-Instructor: [Jiayu Zhou](http://0xmachine.com) [[email](mailto:jiayuz@msu.edu)] 
+Instructor: [Jiayu Zhou](http://jiayuzhou.github.io/) [[email](mailto:jiayuz@msu.edu)] 
 
 * Time: Monday and Wednesday 10:20am - 11:40am
 
-* Location: Engineering Building, **EB 1230**  
+* Location: Zoom (see [D2L](d2l.msu.edu) for Zoom access information)
 
-* Office Hours: Monday and Wednesday, after class in EB 1230 until no one is in the classroom or 12:30p
+* Office Hours: Monday and Wednesday, after class in Zoom. Additional Zoom office hours by appointment. 
 
 * Textbook: Learning from Data, Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin, 2012. [Webpage](http://amlbook.com/)
 
-Teaching Assistant: [Rahul Dey](mailto:deyrahul@msu.edu)
+Teaching Assistant: [Junyuan Hong](mailto:hongju12@msu.edu), [Mengying Sun](mailto:sunmeng2@msu.edu)
 
-* Office Hours: Monday 3:00pm - 5:00pm and by appointments.  
+* Office Hours: TBD and by appointments.  
 
-* Location: Bone Lab EB3203
+* Location: Zoom (TBA) 
 
-Discussions in [Piazza](http://piazza.com/msu/fall2019/cse404)
+Discussions in [Piazza](http://piazza.com/msu/fall2020/cse404)
 
 ## Course Description
 An introduction to the field of machine learning, including linear models for regression and classification, generative models, support vector machines and kernel methods, neural networks and deep learning, decision trees, unsupervised learning and dimension reduction. (3 credits) 
@@ -53,9 +53,9 @@ Announcements will be emailed to the course mailing list. A welcome note will be
 
 ### Grading 
 
-* Homework (*): 40%
-* Exam 1: 20%
-* Exam 2: 20%
+* Homework (*): 60%
+* Exam 1: 10%
+* Exam 2: 10%
 * Final: 20%
 
 Final grades will be assigned based on absolute percentage as follows:
@@ -81,7 +81,9 @@ Most homework contains a written component and a programming component. Therefor
 Students will be required to complete two in-class exams and one final exam. In-class exams will focus on topics taught since the last exam. The final exam will be comprehensive.
 
 ### Class Participation
-Students are required to attend all classes and actively participate in discussions.
+Students are expected to attend all classes and actively participate in discussions. 
+Due to the COVID-19 situation, if you cannot attend the Zoom meetings due to timezone differences, recorded lectures will be provided. 
+
 
 ### Honors Options
 
