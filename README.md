@@ -30,6 +30,13 @@ In this course you will be extensively involved a variety of math topics, especi
 
 You will be using Python for programming.  
 
+## Zoom and Netiquette
+The lecture meetings will be in Zoom. Please make sure reading the department information about using Zoom and Netiquette.    
+
+Using Zoom: http://www.cse.msu.edu/Students/Current_Undergrad/UsingZoom.php
+
+Netiquette Guide for Online Classes: http://www.cse.msu.edu/Students/Current_Undergrad/Netiquette.php
+
 ## Tentative Class Contents
 * Introduction
 * Review: Linear algebra 
@@ -49,7 +56,7 @@ You will be using Python for programming.
 ## Course Policies
 
 ### Course Announcements
-Announcements will be emailed to the course mailing list. A welcome note will be sent to the mailing list at the beginning of the semester.  If you do not receive the welcome message before the first class, please [send mail to me](mailto:jiayuz@msu.edu).
+Announcements will be emailed to the course mailing list (D2L). A welcome note will be sent to the mailing list at the beginning of the semester.  If you do not receive the welcome message before the first class, please [send mail to me](mailto:jiayuz@msu.edu).
 
 ### Grading 
 
