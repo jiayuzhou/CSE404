@@ -11,11 +11,13 @@ Instructor: [Jiayu Zhou](http://jiayuzhou.github.io/) [[email](mailto:jiayuz@msu
 
 * Textbook: Learning from Data, Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin, 2012. [Webpage](http://amlbook.com/)
 
-Teaching Assistant: [Junyuan Hong](mailto:hongju12@msu.edu), [Mengying Sun](mailto:sunmeng2@msu.edu)
+Teaching Assistant: [Mengying Sun](mailto:sunmeng2@msu.edu)
 
-* Office Hours: TBD and by appointments.  
+* Office Hours: Friday 3-5p Eastern Time
 
-* Location: Zoom (TBA) 
+For additional office hours outside the hours above please make an appointment with [Junyuan Hong](mailto:hongju12@msu.edu).  
+
+* Location: Zoom (see [D2L](d2l.msu.edu) for Zoom access information)
 
 Discussions in [Piazza](http://piazza.com/msu/fall2020/cse404)
 
