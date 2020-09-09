@@ -52,6 +52,11 @@ conda deactivate  # exit the cse404 environment (and return to base)
 exit # exit conda
 ```
 
+We are using Python 3 in the class. By default Miniconda 3 will use some version of Python 3, e.g.,
+my installation is 3.7.4, but running the scripts in other versions, say, 3.7.7 Python 3 should have 
+no problem at all. 
+
+
 ## Other Platforms
 Instructions for installing `miniconda` on 
 [Windows](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) 
