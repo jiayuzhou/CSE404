@@ -22,10 +22,12 @@ For additional office hours outside the hours above please make an appointment w
 Discussions in [Piazza](http://piazza.com/msu/fall2020/cse404)
 
 ## Course Description
-An introduction to the field of machine learning, including linear models for regression and classification, generative models, support vector machines and kernel methods, neural networks and deep learning, decision trees, unsupervised learning and dimension reduction. (3 credits) 
+An introduction to the field of Machine Learning, including linear models for regression and classification, generative models, support vector machines and kernel methods, neural networks and deep learning, decision trees, unsupervised learning and dimension reduction. (3 credits) 
 
 ## Student Learning Outcomes and Assessment
-Student learning outcomes include (1) understanding the foundation, major techniques, applications, and challenges of machine learning; (2) the ability to apply basic machine learning algorithms for solving real-world problems. The learning outcomes will be assessed based on a combination of homework assignments and exams.
+Student learning outcomes include :-<br><br>
+(1) Understanding the foundation, major techniques, applications, and challenges of machine learning; <br><br>
+(2) The ability to apply basic machine learning algorithms for solving real-world problems. The learning outcomes will be assessed based on a combination of homework assignments and exams.
 
 ## Recommended Background
 In this course you will be extensively involved a variety of math topics, especially, linear algebra and matrix computation, basics about probability theory and numerical optimization. An online quiz will be available before the class for [self-assessment](https://github.com/jiayuzhou/CSE404/blob/master/CSE404-SelfAssessment.pdf). 
@@ -164,11 +166,11 @@ be subject to disciplinary action through the Student Judicial Affairs office.
 ### Limits to confidentiality
 Essays, journals, and other materials submitted for this class are generally considered confidential pursuant to the University's student record policies.  However, students should be aware that University employees, including instructors, may not be able to maintain confidentiality when it conflicts with their responsibility to report certain issues to protect the health and safety of MSU community members and others.  As the instructor, I must report the following information to other University offices (including the Department of Police and Public Safety) if you share it with me:
  
---Suspected child abuse/neglect, even if this maltreatment happened when you were a child,
+--<i>Suspected child abuse/neglect, even if this maltreatment happened when you were a child,</i>
  
---Allegations of sexual assault or sexual harassment when they involve MSU students, faculty, or staff, and
+--<i>Allegations of sexual assault or sexual harassment when they involve MSU students, faculty, or staff, and</i>
  
---Credible threats of harm to oneself or to others.
+--<i>Credible threats of harm to oneself or to others.</i>
  
 These reports may trigger contact from a campus official who will want to talk with you about the incident that you have shared.  In almost all cases, it will be your decision whether you wish to speak with that individual.  If you would like to talk about these events in a more confidential setting you are encouraged to make an appointment with the MSU Counseling Center.
 
